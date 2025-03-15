@@ -21,7 +21,7 @@
 5. Deploy the model using Flask or FastAPI.
 
 **Technologies**:
-- Libraries: 'pandas', 'numpy', 'scikit-learn', 'matplotlib', `seaborn`
+- Libraries: 'pandas', 'numpy', 'scikit-learn', 'matplotlib', 'seaborn'
 - Platform: Google Colab or Jupyter Notebook
 - Deployment Tools: Flask/FastAPI
 
